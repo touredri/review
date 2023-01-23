@@ -11,7 +11,7 @@
 <body>
   <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
 
-  <nav id="navbar">
+  <nav id="navbar" class="navbar">
     <header>
       <a href="#programming" class="nav-link">Programming</a>
       <a href="#Javascript" class="nav-link">Javascript</a>
@@ -29,6 +29,7 @@
       <code>It is a long established fact that a reader will be distracted by the</code>
       <ul>
         <li>using Lorem Ipsum is that it has a more-or-less </li>
+        <li>using Lorem Ipsum is that it has a more-or-less </li>
       </ul>
     </section>
     <section class="main-section" id="Javascript">
@@ -37,7 +38,7 @@
       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
       <code>It is a long established fact that a reader will be distracted by the</code>
       <ul>
-        <li>using Lorem Ipsum is that it has a more-or-less </li>
+        <li>using Lorem Ipsum is that it has a more-or-less lrud sur uertps </li>
       </ul>
     </section>
     <section class="main-section" id="php">
